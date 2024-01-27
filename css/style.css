@@ -46,3 +46,55 @@
     width: 1336px;
     margin: 0 auto;
 }
+.row1{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    height: 908px;
+    align-content: space-between;
+    margin-top: 48px;
+
+}
+.block1{
+    width: 310px;
+    height: 430px;
+}
+.text-5{
+    width: 278px;
+   height: 30px;
+font-family: 'Inter', sans-serif;
+font-size: 18px;
+font-weight: 600;
+line-height: 30px;
+letter-spacing: 0px;
+text-align: left;
+color: #282828;
+padding-top: 7px;
+}
+.text-6{
+  color: #3E3E59;
+font-size: 14px;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0px;
+text-align: left;
+width: 278px;
+height: 22px;
+padding-top: 4px;
+}
+.text-7{
+    width: 278px;
+   height: 44px;
+font-size: 14px;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0px;
+text-align: left;
+color:  #5F6980;
+padding-top: 8px;
+
+}
+.icon-blocks{
+    margin-top: 24px;
+    letter-spacing: 16px;
+}
