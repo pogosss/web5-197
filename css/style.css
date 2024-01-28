@@ -98,3 +98,44 @@ padding-top: 8px;
     margin-top: 24px;
     letter-spacing: 16px;
 }
+.footer{
+    width: 1654px;
+    height: 512px;
+    background-color: #53535354;
+    margin: 48px auto 0 auto;
+    padding: 108px 184px 181px 164px;
+    width:100%;
+
+}
+.footer-main{
+    display: flex;
+    width: 1306px;
+    height: 223px;
+}
+.footer-box{
+    display: flex;
+    width: 318.05px;
+    height: 223px;
+    flex-direction: column;   
+}
+.footer-image{
+    width: 100px;
+    height: 64px;
+
+}
+.footer-text{
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'Inter'; 
+    line-height: 16.94px;
+    margin: 32px 0 35px 12px;
+    color: #535353;
+
+}
+.footer-icons{
+    display: flex;
+    justify-content: space-between;
+    width: 104px;
+    height: 24px;
+    margin-left: 12px;
+}
